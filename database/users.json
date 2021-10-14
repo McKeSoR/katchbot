@@ -1,0 +1,140 @@
+[
+	{
+		"id": 423039997,
+		"uid": 1,
+		"balance": 3.7503940142128935e+24,
+		"bank": 1000010000001,
+		"btc": 10100004101701,
+		"farm_btc": 0,
+		"farms": 0,
+		"farmslimit": 200,
+		"energy": 10,
+		"opit": 10000002,
+		"biz": 18900000000,
+		"zhelezo": 12030120301269,
+		"zoloto": 120123002304,
+		"almaz": 10000000213001230,
+		"bizlvl": 30,
+		"nicklimit": 200,
+		"rating": 4,
+		"regDate": 1012001,
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false,
+			"poxod": false,
+			"poxod2": false,
+			"kopat": false,
+			"hack": true
+		},
+		"tag": "Создатель / Разработчик",
+		"work": 9,
+		"business": 11,
+		"notifications": true,
+		"exp": 1,
+		"level": 2020,
+		"referal": null,
+		"promo": false,
+		"transport": {
+			"car": 32,
+			"yacht": 13,
+			"airplane": 17,
+			"helicopter": 13
+		},
+		"realty": {
+			"home": 15,
+			"apartment": 8
+		},
+		"misc": {
+			"phone": 10,
+			"farm": 0,
+			"pet": 8,
+			"farm_btc": 3500000000000
+		},
+		"settings": {
+			"firstmsg": false,
+			"adm": 5,
+			"trade": true,
+			"old": false,
+			"limit": 1000000
+		},
+		"pet": {
+			"lvl": 21,
+			"poterl": false
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": [
+				13,
+				3,
+				13
+			]
+		}
+	},
+	{
+		"id": 534254074,
+		"uid": 1,
+		"balance": 20000,
+		"bank": 1000,
+		"btc": 5000,
+		"energy": 10,
+		"opit": 0,
+		"biz": 0,
+		"zhelezo": 0,
+		"zoloto": 0,
+		"almaz": 0,
+		"bizlvl": 0,
+		"nicklimit": 16,
+		"rating": 0,
+		"regDate": "14.9.2021",
+		"mention": true,
+		"ban": false,
+		"reportmute": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false,
+			"poxod": false,
+			"poxod2": false,
+			"kopat": false,
+			"hack": false
+		},
+		"tag": "Размик",
+		"work": 0,
+		"business": 0,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"promo": false,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"pet": 0
+		},
+		"settings": {
+			"firstmsg": false,
+			"adm": 0,
+			"trade": true,
+			"old": false,
+			"limit": 1000000
+		},
+		"pet": {
+			"lvl": 0,
+			"poterl": false
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		}
+	}
+]
